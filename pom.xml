@@ -4,10 +4,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<!-- groupID must be the business group ID or ORGID -->
-	<groupId>CHANGE_THIS_VALUE</groupId>
+	<groupId>ec6ee62e-e7f8-4a4d-88f4-d90ec221360fE</groupId>
 	<artifactId>cicd-cloudhub2-java17</artifactId>
 	<!-- This version is immutable, need to bump for every deployment-->
-	<version>1.0.4</version>
+	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 
 	<name>cicd-cloudhub2-java17</name>
